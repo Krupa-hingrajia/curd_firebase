@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62180274777",
+    "project_id": "emp-data-fb881",
+    "storage_bucket": "emp-data-fb881.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62180274777:android:ad88b740d47e6382433748",
+        "android_client_info": {
+          "package_name": "com.example.demo_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62180274777-3s8hqn775dusedutprm421787oplblh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1mvF3zspckOXFSHS6zvk6rLSHUuQfW6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62180274777-3s8hqn775dusedutprm421787oplblh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
